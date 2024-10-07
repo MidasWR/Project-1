@@ -2,3 +2,5 @@
  1st  try auth server(beta!)
  ##
  Have problem with auth rediderct system cause idk how use JWT token systrm now, but i will learn it in feature! :)
+ ###
+ And i know that this code have so much bags and not worked how need,arch too so bad :(
